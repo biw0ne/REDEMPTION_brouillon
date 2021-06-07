@@ -1,0 +1,4 @@
+*.o
+calendar
+main.c
+Makefile
